@@ -1,0 +1,5 @@
+{
+  "watch": ["server"],
+  "ext": "js,ts",
+  "exec": "npx ts-node --transpile-only ./server/index.ts"
+}
